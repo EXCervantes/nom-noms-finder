@@ -1,0 +1,17 @@
+module.exports = {
+    root: true,
+    env: {
+        node: true,
+    },
+    extends: [
+        'plugin:vue/vue3-recommended', // For Vue 3 projects
+        'eslint:recommended',
+        'plugin:prettier/recommended',
+    ],
+    // parserOptions: {
+    //   parser: '@babel/eslint-parser', If using Babel
+    // },
+    rules: {
+        "vue/require-default-prop": "off",
+    },
+};

@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "id": "02c5",
+      "name": "Debbie",
+      "email": "hotchic@yahoo.couk",
+      "password": "password1234"
+    },
+    {
+      "id": "ad99",
+      "name": "Peter",
+      "email": "pete@something.couk",
+      "password": "something123"
+    },
+    {
+      "id": "2998",
+      "name": "Jake",
+      "email": "jpaul@yahoo.couk",
+      "password": "ezpass123"
+    },
+    {
+      "id": "8ad3",
+      "name": "Bob",
+      "email": "bob@something.com",
+      "password": "pass"
+    },
+    {
+      "id": "1410",
+      "name": "Bruce",
+      "email": "bruce@something.couk",
+      "password": "password"
+    },
+    {
+      "id": "7c84",
+      "name": "Joe",
+      "email": "joesomebody@test.couk",
+      "password": "pass"
+    },
+    {
+      "id": "991a",
+      "name": "Cindy",
+      "email": "lennox@reoutbreak.couk",
+      "password": "evil123"
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "Wendy's",
+      "address": "Noida sector 30",
+      "contact": 11111,
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Pizza Hut",
+      "contact": 33333,
+      "address": "Gurgaon sector 20"
+    },
+    {
+      "id": "3",
+      "name": "Freddy's",
+      "contact": 44444,
+      "address": "Delgi CP0"
+    },
+    {
+      "name": "Starbucks",
+      "address": "delhi Saket",
+      "contact": "1234576",
+      "id": "f0da"
+    },
+    {
+      "id": "45f9",
+      "name": "Taco Bell",
+      "address": "Gurgaon MG ROAD 2",
+      "contact": "12354"
+    },
+    {
+      "name": "Auntie Anne's",
+      "address": "Noida sector 13",
+      "contact": "128751",
+      "id": "12f2"
+    }
+  ]
+}
